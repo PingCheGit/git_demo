@@ -2,5 +2,5 @@
 
 class SayHelloFromGitHub:
     @staticmethod
-    def say_hello(self):
+    def say_hello():
         return "GitHub say Hello!!!"
